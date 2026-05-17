@@ -1,3 +1,8 @@
+🌎 Language / Idioma:  
+[🇺🇸 English](README.md) | [🇧🇷 Português](README-ptBR.md)
+
+---
+
 # 🗺️ TSP — Comparing State Search Methods
 
 A hands-on implementation and comparison of three approaches to solve the **Travelling Salesman Problem (TSP)**: brute force, branch and bound, and the 2-opt heuristic.
